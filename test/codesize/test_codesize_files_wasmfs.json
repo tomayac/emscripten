@@ -1,9 +1,9 @@
 {
   "a.out.js": 4941,
   "a.out.js.gz": 2396,
-  "a.out.nodebug.wasm": 50491,
+  "a.out.nodebug.wasm": 50479,
   "a.out.nodebug.wasm.gz": 17794,
-  "total": 55432,
+  "total": 55420,
   "total_gz": 20190,
   "sent": [
     "a (emscripten_date_now)",
